@@ -1,10 +1,10 @@
 ## Looking and Moving Around
 
-On a Windows or Mac desktop, our present location determines what files and folders we can access. I can "see" my present location visually with the help of the graphic interface - I could be looking at my Desktop, or the contents of a folder, for example. In a Linux command-line interface, we lack the same visual queues to tell us what our location is. Instead, we use a command - `pwd` (print working directory) - to tell us our present location. Try executing this command on Lonestar5:
+On a Windows or Mac desktop, our present location determines what files and folders we can access. I can "see" my present location visually with the help of the graphic interface - I could be looking at my Desktop, or the contents of a folder, for example. In a Linux command-line interface, we lack the same visual queues to tell us what our location is. Instead, we use a command - `pwd` (print working directory) - to tell us our present location. Try executing this command on Stampede2:
 
 ```
 $ pwd
-/home1/03439/wallen 
+/home1/03439/wallen
 ```
 
 This home location on the Linux filesystem is unique for each user, and it is roughly analogous to C:\Users\username on Windows, or /Users/username on Mac.
@@ -82,7 +82,7 @@ We are back in our home directory. Finally, use the  `rmdir` (remove directory) 
 
 ```
 $ mkdir junkfolder
-$ ls 
+$ ls
 folder1 folder2 folder3 junkfolder
 $ rmdir junkfolder
 $ ls
@@ -108,7 +108,7 @@ $ tree .
 2. Make a new folder called `challenge01`
 3. Navigate into that new folder
 4. Make 5 sub folders called `a`, `b`, `c`, `d`, `e`
-5. Wihin each of those sub folders, make 5 sub folders called `1`, `2`, `3`, `4`, `5`
+5. Within each of those sub folders, make 5 sub folders called `1`, `2`, `3`, `4`, `5`
 6. Navigate back to your home directory and print a hierarchical view of the `challenge01` folder
 7. Advanced Linux users: can you do this on one line?
 

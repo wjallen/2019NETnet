@@ -19,10 +19,10 @@ $ cd challenge01
 ```
 $ mkdir a          
 $ mkdir b          
-$ mkdir c d e      # make multiple folders simultaneously by providing names seperated by spaces
+$ mkdir c d e      # make multiple folders simultaneously by providing names separated by spaces
 ```
 
-5) Wihin each of those sub folders, make 5 sub folders called `1`, `2`, `3`, `4`, `5`
+5) Within each of those sub folders, make 5 sub folders called `1`, `2`, `3`, `4`, `5`
 
 ```
 $ cd a             
@@ -47,7 +47,7 @@ $ pwd
 $ cd ..            
 $ pwd              
 /home1/03439/wallen              
-$ tree challenge01 
+$ tree challenge01
 challenge01                      
 |-- a                            
 |   |-- 1                        

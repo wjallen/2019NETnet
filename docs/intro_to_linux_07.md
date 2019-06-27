@@ -1,6 +1,6 @@
 ## Miscellaneous Commands
 
-Some say the only command you ever need to memorize is `man`. This command brings up the manual page for any other command. For exampe, try issuing:
+Some say the only command you ever need to memorize is `man`. This command brings up the manual page for any other command. For example, try issuing:
 
 ```
 $ man ls
@@ -54,4 +54,3 @@ $ history
 
 
 Previous: [Network and File Transfers](intro_to_linux_06.md) | Next: [Text Editing with VIM](intro_to_linux_08.md) | Top: [Course Overview](../README.md)
-

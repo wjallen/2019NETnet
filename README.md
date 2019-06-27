@@ -1,13 +1,12 @@
-# Introduction to Linux and HPC for Life Sciences
+# Accessing and Mastering High Performance Computing Tools for Researchs
 
 ### Workshop Objectives
 
-The workshop is designed to introduce skills required to perform computational research in the life sciences. It will cover topics in the Linux command line interface, the text editor VIM, and high performance computing. This workshop is intended for people who have little to no experience with a command line interface, but intend to use a Linux workstation or HPC cluster for life science research.
+The workshop is designed to introduce skills required to perform data science in a high performance computing environment. It will cover topics in the Linux command line interface, the text editor VIM, and high performance computing. This workshop is intended for people who have little to no experience with a command line interface, but intend to use a Linux workstation or HPC cluster for data science.
 
 
 **WELCOME**
-* [Logging into a supercomputer (Lonestar5)      ](docs/welcome_01.md)
-* [Role of supercomputers                        ](docs/welcome_02.md)
+* [Logging into a supercomputer (Stampede2)      ](docs/welcome_01.md)
 
 **INTRODUCTION TO LINUX**
 * [Why use linux                                 ](docs/intro_to_linux_01.md)
@@ -20,6 +19,7 @@ The workshop is designed to introduce skills required to perform computational r
 * [Text editing with VIM                         ](docs/intro_to_linux_08.md)
 
 **INTRODUCTION TO HIGH PERFORMANCE COMPUTING**
+* [Role of supercomputers                        ](docs/welcome_02.md)
 * [Basic HPC architecture                        ](docs/intro_to_hpc_01.md)
 * [Environment variables                         ](docs/intro_to_hpc_02.md)
 * [Modules                                       ](docs/intro_to_hpc_03.md)

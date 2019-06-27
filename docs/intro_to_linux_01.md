@@ -2,11 +2,11 @@
 
 ### Module Objectives
 
-This module will be fully interactive. Participants are **strongly encouraged** to follow along on the command line. Even if you already have Linux familiarity, please follow along becuase we will create files / directories that we use later on in the workshop. After taking this module, participants should be able to:
+This module will be fully interactive. Participants are **strongly encouraged** to follow along on the command line. Even if you already have Linux familiarity, please follow along because we will create files / directories that we use later on in the workshop. After taking this module, participants should be able to:
 
  * Describe basic functions of essential Linux commands
  * Use Linux commands to navigate a file system and manipulate files
- * Look up how to use unkown Linux commands
+ * Look up how to use unknown Linux commands
  * Edit files directly on a Linux system using a command line utility (e.g. vim, nano, emacs)
 
 
@@ -39,4 +39,3 @@ These are all good reasons to use Linux. But the *real* reasons we are learning 
 
 
 Next: [Looking and Moving Around](intro_to_linux_02.md) | Top: [Course Overview](../README.md)
-
