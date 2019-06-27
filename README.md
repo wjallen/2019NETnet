@@ -19,14 +19,8 @@ The workshop is designed to introduce skills required to perform data science in
 * [Text editing with VIM                         ](docs/intro_to_linux_08.md)
 
 **INTRODUCTION TO HIGH PERFORMANCE COMPUTING**
-* [Role of supercomputers                        ](docs/welcome_02.md)
 * [Basic HPC architecture                        ](docs/intro_to_hpc_01.md)
 * [Environment variables                         ](docs/intro_to_hpc_02.md)
 * [Modules                                       ](docs/intro_to_hpc_03.md)
 * [The .bashrc                                   ](docs/intro_to_hpc_04.md)
 * [Batch job submission                          ](docs/intro_to_hpc_05.md)
-
-
-
-
-
