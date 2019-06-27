@@ -1,4 +1,4 @@
-# Accessing and Mastering High Performance Computing Tools for Researchs
+# Accessing and Mastering High Performance Computing Tools for Research
 
 ### Workshop Objectives
 
