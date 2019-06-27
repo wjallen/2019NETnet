@@ -36,4 +36,4 @@ Windows (bash): If your windows machine has 'bash', follow the instructions for 
  4. Modify your environment with environment variables and modules
  5. Prepare, submit, and monitor batch jobs
 
-Next: [Welcome Part 2](welcome_02.md) | Top: [Course Overview](../README.md)
+Top: [Course Overview](../README.md)

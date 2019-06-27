@@ -11,6 +11,22 @@ This module will be fully interactive. Participants are **strongly encouraged** 
  * Prepare and submit a batch job to a queue
 
 
+### What is the Texas Advanced Computing Center?
+
+ A little about us:
+
+  * We are a research center at UT Austin
+  * ~170 Staff, 85% funding from external grants
+  * We support over 10,000 users on ~2,300 active projects
+
+ *Mission: "To enable discoveries that advance science and society through the application of advanced computing technologies."*
+
+
+ ### TACC Systems at a Glance
+
+
+ <center><img src="../resources/machines.png" style="height:300px;"></center>
+
 
 ### Basic High Performance Computing (HPC) System Architecture
 
@@ -38,5 +54,3 @@ HPC systems are shared resources. Your jobs and activity on a cluster, if misman
 
 
 Next: [Environment Variables](intro_to_hpc_02.md) | Top: [Course Overview](../README.md)
-
-

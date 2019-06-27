@@ -23,7 +23,7 @@ Linux is an operating system often cited for its:
 These are all good reasons to use Linux. But the *real* reasons we are learning Linux today are:
 
  * **Most supercomputers you will use operate on Linux**
- * **Most life sciences software packages you will use were probably designed and optimized for Linux**
+ * **Most data science software packages you will use were probably designed and optimized for Linux**
 
 
 ### Topics Covered

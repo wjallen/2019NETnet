@@ -4,7 +4,7 @@
 A little about us:
 
  * We are a research center at UT Austin
- * ~160 Staff, 85% funding from external grants
+ * ~170 Staff, 85% funding from external grants
  * We support over 10,000 users on ~2,300 active projects
 
 *Mission: "To enable discoveries that advance science and society through the application of advanced computing technologies."*
@@ -41,4 +41,4 @@ As we log in and prepare to use Stampede2, it is important to understand the bas
 HPC systems are shared resources. Your jobs and activity on a cluster, if mismanaged, can affect others. TACC staff are always [available to help](https://portal.tacc.utexas.edu/tacc-consulting).
 
 
-Previous: [Welcome Part 1](welcome_01.md) | Top: [Course Overview](../README.md)
+Next: [Introduction to HPC](intro_to_hpc_01.md) | Top: [Course Overview](../README.md)
