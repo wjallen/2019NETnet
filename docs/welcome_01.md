@@ -1,4 +1,3 @@
-# Welcome to Intro to Linux and HPC for Life Sciences
 
 ### Getting Set Up
 

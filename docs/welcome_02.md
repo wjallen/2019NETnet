@@ -1,4 +1,3 @@
-# Welcome to Computational Techniques for Life Sciences
 
 ### What is the Texas Advanced Computing Center?
 
